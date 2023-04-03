@@ -5,10 +5,8 @@ coco_val.txt
 coco_dataset/
 2007_train.txt
 2007_val.txt
-VOCdevkit-07/
 map_out_c/
 map_out_fog/
-VOCdevkit/
 VOCdevkit-C/
 map_out/
 model_data/yolo4_voc_weights.pth
